@@ -9,7 +9,7 @@ Pull the image the first time:
 docker pull blueplanelabs/playgo:latest
 ```
 
-Then run containers with the following command:
+Then run the PlayGo container with the following command:
 
 ```
 docker run --rm -e DISPLAY=$DISPLAY \
